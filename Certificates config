@@ -1,0 +1,2 @@
+# Configure Gitbash or Git or Gitlab instance to trust Windows certificate Store
+git config --global http.sslBackend schannel
